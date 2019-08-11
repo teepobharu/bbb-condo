@@ -39,6 +39,8 @@ const Layout = ({ children }) => {
           © {new Date().getFullYear()}, Built with
           {` `}
           <a href="https://www.gatsbyjs.org">Gatsby</a>
+          <a href="http://localhost:1337:1337/admin">Strapi local</a>
+          <a href="http://https://condocms.herokuapp.com/admin">Strapi live</a>
         </footer>
       </div>
     </>

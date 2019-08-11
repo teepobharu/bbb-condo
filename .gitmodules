@@ -1,6 +1,6 @@
 [submodule "condo-cms"]
 	path = condo-cms
-	url = C:/Program Files/Git/condo-cms
+	url = https://github.com/teepobharu/condo-cms.git
 [submodule "condoclient"]
 	path = condoclient
 	url = C:/Program Files/Git/condoclient
